@@ -1,0 +1,14 @@
+#!/bin/bash
+
+FILENAME=$1
+CODEFILENAME="${FILENAME}.c"
+
+rm $FILENAME -f
+
+echo $FILENAME
+
+if gcc -o $FILENAME $CODEFILENAME; then 
+./$FILENAME;
+else 
+echo "COMPILATION ERROR";
+fi 

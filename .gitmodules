@@ -1,0 +1,6 @@
+[submodule "ServerClientWC"]
+	path = ServerClientWC
+	url = https://github.com/Ca-moes/ServerClientWC
+[submodule "SimpleDu"]
+	path = SimpleDu
+	url = https://github.com/Ca-moes/SimpleDu

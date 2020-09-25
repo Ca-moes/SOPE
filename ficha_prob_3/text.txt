@@ -1,0 +1,23 @@
+.:
+total 88
+drwxr-xr-x 2 camoes camoes 4096 Mar 11 09:33 .
+drwxr-xr-x 6 camoes camoes 4096 Mar  4 08:38 ..
+-rw-r--r-- 1 camoes camoes 2207 Mar 11 09:33 p10.c
+-rw-r--r-- 1 camoes camoes 2649 Mar 11 09:29 p11.c
+-rw-r--r-- 1 camoes camoes  414 Mar  4 09:20 p1.c
+-rw-r--r-- 1 camoes camoes  556 Mar  4 09:29 p2.c
+-rw-r--r-- 1 camoes camoes  536 Mar  4 09:32 p3.c
+-rw-r--r-- 1 camoes camoes  387 Mar  4 09:44 p4a.c
+-rw-r--r-- 1 camoes camoes  354 Mar  4 09:44 p4b.c
+-rw-r--r-- 1 camoes camoes  493 Mar  4 09:48 p5.c
+-rw-r--r-- 1 camoes camoes 1015 Mar  4 14:59 p6.c
+-rw-r--r-- 1 camoes camoes  555 Mar 11 09:01 p7.c
+-rw-r--r-- 1 camoes camoes  568 Mar  6 08:56 p8a.c
+-rw-r--r-- 1 camoes camoes  570 Mar  6 09:02 p8b.c
+-rw-r--r-- 1 camoes camoes  578 Mar  6 09:17 p8c.c
+-rw-r--r-- 1 camoes camoes  581 Mar  6 09:18 p8d.c
+-rw-r--r-- 1 camoes camoes  641 Mar  6 09:21 p8e.c
+-rw-r--r-- 1 camoes camoes  850 Mar  6 10:11 p9a.c
+-rw-r--r-- 1 camoes camoes 1381 Mar  6 10:11 p9b.c
+-rwxr-xr-x 1 camoes camoes 8600 Mar 11 09:33 prog
+-rw-r--r-- 1 camoes camoes    0 Mar 11 09:33 text.txt
