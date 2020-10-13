@@ -13,4 +13,4 @@ Este repositório contém:
 
 | SimpleDu | Server-Client | Exame | Final |
 |---|---|---|---|
-| ? | ? | 15.8 | 16 | 
+| 13.6 | 17.8 | 15.8 | 16 | 
